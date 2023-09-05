@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/prmts.iml" filepath="$PROJECT_DIR$/.idea/prmts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PromptHub/.idea/PromptHub.iml" filepath="$PROJECT_DIR$/../PromptHub/.idea/PromptHub.iml" />
     </modules>
   </component>
 </project>
